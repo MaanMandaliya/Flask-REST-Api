@@ -4,4 +4,4 @@ This is a Flask REST API with Video as a resource and authentication is done usi
 All the requirements of this API is listed in a pckgs.txt file
 Use command : conda create --name env --file pckgs.txt to use this API
 
-SQLite3 database is used here.
+Technology Stack : Flask, Python, SQLite3
